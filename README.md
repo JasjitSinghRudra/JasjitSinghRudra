@@ -2,7 +2,7 @@
 
 I'm a backend developer for web applications and have experience working with CI/CD tools and AWS cloud.
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
