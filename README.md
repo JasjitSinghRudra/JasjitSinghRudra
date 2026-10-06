@@ -9,9 +9,9 @@ DevOps Engineer with 4+ years building and operating microservices-based platfor
 - Designing and owning CI/CD pipelines (Jenkins, GitHub Actions) for production microservices on EKS
 - GitOps-based deployments with ArgoCD and Kubernetes manifest management
 - Cloud infrastructure on AWS — EKS, EC2, S3, Lambda, VPC, Direct Connect
-- Enterprise security scanning and CVE remediation (BlackDuck, Wiz, AquaSec, Checkmarx)
+- Enterprise security scanning and CVE fixes remediation (BlackDuck, Wiz, AquaSec, Checkmarx)
 - Infrastructure as Code with Terraform
-- Kubernetes reliability — RBAC, PodDisruptionBudgets, cluster upgrades (v1.25 → v1.32)
+- Kubernetes reliability — RBAC, PodDisruptionBudgets, cluster upgrades
 
 ---
 
@@ -64,16 +64,6 @@ DevOps Engineer with 4+ years building and operating microservices-based platfor
 
 ---
 
-## Projects
-
-**[hello-service-gitops](https://github.com/JasjitSinghRudra/hello-service-gitops)**
-End-to-end GitOps pipeline — Spring Boot microservice with GitHub Actions CI, Docker image push to JFrog Artifactory, automated Kubernetes manifest updates via git commit, and ArgoCD-driven rolling deployments on minikube. Includes local CI simulation with nektos/act.
-
-**DevOps AI Assistant**
-AI-powered Kubernetes monitoring dashboard built with FastAPI, MCP, and Claude AI. Provides real-time pod health analysis, SSE-based log streaming, and intelligent anomaly detection across multi-environment AWS EKS clusters. Deployed within FICO's Decision Management Platform.
-
----
-
 ## Certifications
 
 | Certification | Issuer | Year |
@@ -85,6 +75,4 @@ AI-powered Kubernetes monitoring dashboard built with FastAPI, MCP, and Claude A
 
 ## Connect
 
-- **Email:** rudra.jasjit@gmail.com
 - **LinkedIn:** [linkedin.com/in/jasjitrudra](https://linkedin.com/in/jasjitrudra)
-- **Location:** Bengaluru, India
