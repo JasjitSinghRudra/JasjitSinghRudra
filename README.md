@@ -1,4 +1,4 @@
-# Jasjit Rudra — DevOps Engineer
+# Jasjit Rudra | DevOps Engineer
 
 DevOps Engineer with 4+ years building and operating microservices-based platforms on AWS EKS. I work across the full delivery lifecycle from CI/CD pipelines, container orchestration, cloud infrastructure, security compliance to GitOps deployments.
 
@@ -8,10 +8,10 @@ DevOps Engineer with 4+ years building and operating microservices-based platfor
 
 - Designing and owning CI/CD pipelines (Jenkins, GitHub Actions) for production microservices on EKS
 - GitOps-based deployments with ArgoCD and Kubernetes manifest management
-- Cloud infrastructure on AWS — EKS, EC2, S3, Lambda, VPC, Direct Connect
+- Cloud infrastructure on AWS- EKS, EC2, S3, Lambda, VPC, Direct Connect
 - Enterprise security scanning and CVE fixes remediation (BlackDuck, Wiz, AquaSec, Checkmarx)
 - Infrastructure as Code with Terraform
-- Kubernetes reliability — RBAC, PodDisruptionBudgets, cluster upgrades
+- Kubernetes reliability- RBAC, PodDisruptionBudgets, cluster upgrades
 
 ---
 
