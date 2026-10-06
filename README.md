@@ -75,4 +75,4 @@ DevOps Engineer with 4+ years building and operating microservices-based platfor
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/jasjitrudra]([https://www.linkedin.com/in/jasjit-rudra-4b59441b9/])
+- **LinkedIn:** [https://www.linkedin.com/in/jasjit-rudra-4b59441b9/]
